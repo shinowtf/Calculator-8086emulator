@@ -10,6 +10,7 @@ Block Diagram of a 8086 Microprocessor
 
 Assembly language is a low-level programming language that is intended to communicate directly with a computer's hardware. Unlike machine language, which consists of binary and hexadecimal characters, assembly languages are designed to be readable by humans. The Control Processing Unit can only detect strings of 0 and 1 language. Thus, the low-level assembly language was devised to ease
 human beings to understand various instructions in assembly language. Assemblers are programs that can translate assembly language code to specific machine language code.
+
 ![image](https://github.com/user-attachments/assets/b3f658a7-dd73-41c1-9b13-82e89ac4801b)
 System Bus connection among the RAM, CPU and Devices
 
